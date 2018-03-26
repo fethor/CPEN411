@@ -1,0 +1,26 @@
+    /*
+    //change previously taken values
+    if(previous & actual_outcome){
+      if (bpred_phtiii[index] == 0)
+        bpred_phtiii[index] = 2;
+      if (bpred_phtiii[index] == 1)
+        bpred_phtiii[index] = 3;
+    }else if(previous & !actual_outcome){
+      if (bpred_phtiii[index] == 2)
+        bpred_phtiii[index] = 0;
+      if (bpred_phtiii[index] == 3)
+        bpred_phtiii[index] = 1;
+    }
+    //change previously not taken values
+    else if(!previous & actual_outcome){
+      if (bpred_phtiii[index] == 0)
+        bpred_phtiii[index] = 1;
+      if (bpred_phtiii[index] == 2)
+        bpred_phtiii[index] = 3;
+    }else if(!previous & !actual_outcome){
+      if (bpred_phtiii[index] == 3)
+        bpred_phtiii[index] = 2;
+      if (bpred_phtiii[index] == 1)
+        bpred_phtiii[index] = 0;
+    }
+    */
